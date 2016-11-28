@@ -10,13 +10,21 @@ Set com port by adding argument to launch, e.g "BDMControlApp.exe COM1"
 
 #### Keybinds
 Keys.Add //Volume Up
+
 Keys.Subtract //Volume Down
+
 Keys.NumPad0 //Power Toggle
+
 Keys.NumPad1 //VGA
+
 Keys.NumPad2 //DP
+
 Keys.NumPad3 //MiniDP
+
 Keys.NumPad4 //HDMI
+
 Keys.NumPad5 //HDM
 
-So the reason why i added global keybinds is actually a bit of a special use case. i have a MCE (RC6) Remote Sensort which with a program called "AdvancedMCERemoteMapper" i can map keyboard presses to buttons on the MCE Remote.
+So the reason why i added global keybinds is actually a bit of a special use case. i have a MCE (RC6) Remote Sensor which with a program called "AdvancedMCERemoteMapper" i can map keyboard presses to buttons on the MCE Remote.
+
 So with my Logitech Harmony universal remote i can map on screen buttons such as "DP" to "Green" on the MCE Remote and then map "Green" on the MCE Remote to Numpad2
