@@ -1,3 +1,5 @@
+`THIS APPLICATION IS NO LONGER BEING DEVELOPED AS I NO LONGER HAVE THIS MONITOR! THE REPO HAS BEEN ARCHIVED`
+
 # BDM4065ControlApp
 #### Control Philips BDM4065 monitor via its RS232 interface
  Heavily based on the code from https://github.com/andy-w/BDM4065ControlApp
